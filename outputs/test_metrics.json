@@ -1,0 +1,107 @@
+{
+  "split": "test",
+  "images": 46,
+  "checkpoint_epoch": 22,
+  "threshold": 0.5,
+  "resolution": [
+    512,
+    384
+  ],
+  "selection": "Validation only; test not used for tuning",
+  "inference_seconds_excluding_io": {
+    "unet": 1.0785535830073059,
+    "classical": 1.2131291249825153
+  },
+  "unet": {
+    "native_resolution": {
+      "micro": {
+        "iou": 0.24238025138479102,
+        "dice": 0.39018690310736565,
+        "precision": 0.2610646158220681,
+        "recall": 0.7720342295621898
+      },
+      "macro": {
+        "iou": 0.22396183271101322,
+        "dice": 0.35017265943054254,
+        "precision": 0.23972046877506506,
+        "recall": 0.8388823021322599
+      },
+      "macro_nonempty": {
+        "iou": 0.239587076853642,
+        "dice": 0.37460331008848746,
+        "precision": 0.25644515264309287,
+        "recall": 0.8276415325135805
+      },
+      "empty_target_images": 3,
+      "empty_target_false_positive_images": 3
+    },
+    "model_resolution": {
+      "micro": {
+        "iou": 0.24131524238985247,
+        "dice": 0.38880573467422874,
+        "precision": 0.26006580656333883,
+        "recall": 0.7699554587111866
+      },
+      "macro": {
+        "iou": 0.2228314775887184,
+        "dice": 0.3487795703244893,
+        "precision": 0.23867333605334304,
+        "recall": 0.837140088725551
+      },
+      "macro_nonempty": {
+        "iou": 0.2383778597460708,
+        "dice": 0.373113028719221,
+        "precision": 0.2553249641500879,
+        "recall": 0.8257777693343105
+      },
+      "empty_target_images": 3,
+      "empty_target_false_positive_images": 3
+    }
+  },
+  "classical": {
+    "native_resolution": {
+      "micro": {
+        "iou": 0.10555296860507044,
+        "dice": 0.19095054077463464,
+        "precision": 0.1207164966754144,
+        "recall": 0.45661173624238266
+      },
+      "macro": {
+        "iou": 0.10955497008547699,
+        "dice": 0.1906136043120547,
+        "precision": 0.13353035106902053,
+        "recall": 0.5134149750037948
+      },
+      "macro_nonempty": {
+        "iou": 0.11719834009144049,
+        "dice": 0.20391222786870966,
+        "precision": 0.14284642207383594,
+        "recall": 0.4794671825621991
+      },
+      "empty_target_images": 3,
+      "empty_target_false_positive_images": 3
+    },
+    "model_resolution": {
+      "micro": {
+        "iou": 0.1046993899522121,
+        "dice": 0.18955272521104816,
+        "precision": 0.11981454987710967,
+        "recall": 0.4535307249441899
+      },
+      "macro": {
+        "iou": 0.10904390890179365,
+        "dice": 0.1897048249018375,
+        "precision": 0.13278597055156866,
+        "recall": 0.5110773490062006
+      },
+      "macro_nonempty": {
+        "iou": 0.11665162347633738,
+        "dice": 0.20294004524382617,
+        "precision": 0.14205010803191065,
+        "recall": 0.47696646637872625
+      },
+      "empty_target_images": 3,
+      "empty_target_false_positive_images": 3
+    }
+  }
+}

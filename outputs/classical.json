@@ -1,0 +1,33 @@
+{
+  "config": {
+    "delta": 12,
+    "min_area": 40,
+    "min_aspect": 2.0
+  },
+  "val": {
+    "micro": {
+      "iou": 0.05999084844543988,
+      "dice": 0.11319125732721406,
+      "precision": 0.06894165836377726,
+      "recall": 0.3160365389495052
+    },
+    "macro": {
+      "iou": 0.05027197259756156,
+      "dice": 0.0909911092934186,
+      "precision": 0.0646898868461819,
+      "recall": 0.4192626121166144
+    },
+    "macro_nonempty": {
+      "iou": 0.06085554577599558,
+      "dice": 0.11014713230255936,
+      "precision": 0.07830881039274652,
+      "recall": 0.2970021094043228
+    },
+    "empty_target_images": 8,
+    "empty_target_false_positive_images": 8
+  },
+  "width": 512,
+  "height": 384,
+  "selection": "maximum macro Dice over nonempty validation targets",
+  "candidates": 12
+}

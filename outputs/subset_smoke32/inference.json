@@ -1,0 +1,169 @@
+{
+  "method": "unet",
+  "images": 32,
+  "device": "mps",
+  "total_seconds": 4.16356816602638,
+  "per_image": [
+    {
+      "file": "2024-08-13_12-58-37_A1_00_03_Best.png",
+      "seconds": 0.304122457979247,
+      "foreground_fraction": 0.06833307930701621
+    },
+    {
+      "file": "2024-08-13_12-58-37_A1_00_06_Best.png",
+      "seconds": 0.11457433400209993,
+      "foreground_fraction": 0.029721277561855407
+    },
+    {
+      "file": "2024-08-13_12-58-37_A1_01_05_Best.png",
+      "seconds": 0.12523674999829382,
+      "foreground_fraction": 0.004598273256109333
+    },
+    {
+      "file": "2024-08-13_12-58-37_A1_03_06_Best.png",
+      "seconds": 0.13230783300241455,
+      "foreground_fraction": 0.004085656086470558
+    },
+    {
+      "file": "2024-08-13_12-58-37_A1_05_05_Best.png",
+      "seconds": 0.11776775002363138,
+      "foreground_fraction": 0.03396768467713255
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_01_04_Best.png",
+      "seconds": 0.1193137500085868,
+      "foreground_fraction": 0.010822314941827973
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_01_07_Best.png",
+      "seconds": 0.11647441700915806,
+      "foreground_fraction": 0.006765236816034141
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_02_04_Best.png",
+      "seconds": 0.13682866701856256,
+      "foreground_fraction": 0.013845029657572524
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_03_00_Best.png",
+      "seconds": 0.1164355410146527,
+      "foreground_fraction": 0.05247052500889092
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_03_02_Best.png",
+      "seconds": 0.1372011250059586,
+      "foreground_fraction": 0.005511974165523548
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_03_06_Best.png",
+      "seconds": 0.13808062497992069,
+      "foreground_fraction": 0.008823842275059696
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_04_00_Best.png",
+      "seconds": 0.11875658298959024,
+      "foreground_fraction": 0.05588122523243408
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_04_02_Best.png",
+      "seconds": 0.14089808298740536,
+      "foreground_fraction": 0.003948720024894579
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_04_06_Best.png",
+      "seconds": 0.12896775000263005,
+      "foreground_fraction": 0.005734644109129706
+    },
+    {
+      "file": "2024-08-13_12-58-37_A2_06_03_Best.png",
+      "seconds": 0.11341058398829773,
+      "foreground_fraction": 0.058472690583244426
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_00_05_Best.png",
+      "seconds": 0.10770095800398849,
+      "foreground_fraction": 0.004540521960575116
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_01_02_Best.png",
+      "seconds": 0.1243929170013871,
+      "foreground_fraction": 0.04821002737133567
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_01_08_Best.png",
+      "seconds": 0.11464016602258198,
+      "foreground_fraction": 0.07646073070670122
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_02_05_Best.png",
+      "seconds": 0.1351993330172263,
+      "foreground_fraction": 0.008868296880556825
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_02_07_Best.png",
+      "seconds": 0.13565179199213162,
+      "foreground_fraction": 0.006706890146319158
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_03_08_Best.png",
+      "seconds": 0.10829916599323042,
+      "foreground_fraction": 0.0523673268175583
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_04_00_Best.png",
+      "seconds": 0.11369033300434239,
+      "foreground_fraction": 0.028446779898897524
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_04_02_Best.png",
+      "seconds": 0.13682433299254626,
+      "foreground_fraction": 0.005046391556165219
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_05_01_Best.png",
+      "seconds": 0.10838099999818951,
+      "foreground_fraction": 0.01495083796931362
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_05_08_Best.png",
+      "seconds": 0.1155212500016205,
+      "foreground_fraction": 0.04606509265609917
+    },
+    {
+      "file": "2024-08-13_12-58-37_A3_06_04_Best.png",
+      "seconds": 0.1295990829821676,
+      "foreground_fraction": 0.07786680606360818
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_01_01_Best.png",
+      "seconds": 0.11912020898307674,
+      "foreground_fraction": 0.04263732503937408
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_01_03_Best.png",
+      "seconds": 0.14372591700521298,
+      "foreground_fraction": 0.005654863968907179
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_01_04_Best.png",
+      "seconds": 0.1346567499858793,
+      "foreground_fraction": 0.005840620713305898
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_02_00_Best.png",
+      "seconds": 0.11770079200505279,
+      "foreground_fraction": 0.021495786338464665
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_02_02_Best.png",
+      "seconds": 0.1476374590129126,
+      "foreground_fraction": 0.0032406216659045875
+    },
+    {
+      "file": "2024-08-13_12-58-37_B1_02_07_Best.png",
+      "seconds": 0.11045045801438391,
+      "foreground_fraction": 0.0007880769572727735
+    }
+  ],
+  "note": "No ground truth: timing and predicted coverage only; not accuracy. Masks stored as 0/255."
+}

@@ -1,0 +1,112 @@
+{
+  "seed": 42,
+  "images": 306,
+  "groups": 32,
+  "empty_masks": 34,
+  "foreground_fraction_mean": 0.017594475739075455,
+  "duplicate_images": 12,
+  "orphan_labels": [
+    "1841443f-4b2b8615-75d4-4b2e-bccd-5731cc9b8ffc_A2_02_03_Best (1).txt",
+    "2f239cb7-4b2b8615-75d4-4b2e-bccd-5731cc9b8ffc_A2_01_04_Best (1).txt",
+    "30756772-35f892c1-da41-4a26-afbf-cb846cdf7436_A3_05_05_Best (1).txt",
+    "5c9ac81f-6a55a585-2551-49dd-be42-a9371d0c40ea_A2_01_04_Best (1).txt",
+    "69ee7dca-195893df-aa40-4944-8592-2fa62f94d608_B2_01_05_Best (1).txt",
+    "80cc9caa-517e7812-564f-487a-9338-613f21c56c3a_A2_04_05_Best (1).txt",
+    "8e7d9885-137a548c-ba26-40cc-bcac-d20d77cf6fd8_A2_03_04_Best (1).txt",
+    "8fde6880-ca6c3fb1-be85-468c-9b60-7d9e94829e57_A1_04_04_Best (1).txt",
+    "9f5cb165-195893df-aa40-4944-8592-2fa62f94d608_A3_04_06_Best (1).txt",
+    "a5adf0fc-88797675-e851-4bb9-93df-0d446823b511_A3_05_05_Best (1).txt",
+    "c89fec27-2ab5ac69-bc0f-4173-a326-cc1fecc40538_A2_04_05_Best (1).txt",
+    "ef592a8c-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_04_Best (1).txt"
+  ],
+  "duplicate_groups_with_different_masks": [
+    [
+      "0f0704fc-cell8.png",
+      "898190c6-cell8.png"
+    ],
+    [
+      "196ffab0-cell38.png",
+      "634a6598-cell38.png"
+    ],
+    [
+      "89612d35-cell2.png",
+      "f2c7a99a-cell2.png"
+    ],
+    [
+      "0108f6b1-cell28.png",
+      "a5750420-cell28.png"
+    ],
+    [
+      "09195104-cell21.png",
+      "429ecf67-cell21.png",
+      "c264d669-cell21.png"
+    ],
+    [
+      "10f23e6d-cell32.png",
+      "8aaf4f2a-cell32.png"
+    ],
+    [
+      "d5456920-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_03_03_Best.png",
+      "f6edfb6d-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_03_03_Best.png"
+    ],
+    [
+      "e0ba335d-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_04_Best.png",
+      "ef592a8c-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_04_Best.png"
+    ],
+    [
+      "141653d6-cell9.png",
+      "ef706849-cell9.png"
+    ],
+    [
+      "2b70bcae-cell1.png",
+      "922a7a35-cell1.png"
+    ],
+    [
+      "76b4d449-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_03_Best.png",
+      "87d4c6f1-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_03_Best.png"
+    ]
+  ],
+  "masks_above_20_percent": [
+    "07722ad5-42d5b90b-a80c-4524-b17f-99018fff2a56_A3_03_04_Best.png",
+    "31b7e487-42d5b90b-a80c-4524-b17f-99018fff2a56_A3_02_03_Best.png",
+    "857fb71d-1cb78525-a7e5-4436-8262-f33beb93d74d_B1_02_06_Best.png"
+  ],
+  "max_polygon_mask_disagreement": 0.029640108215211097,
+  "max_coco_mask_disagreement": 0.0003264635091195448,
+  "images_with_exported_instance_count_difference": [
+    "0062917b-195893df-aa40-4944-8592-2fa62f94d608_B2_02_03_Best.png",
+    "10f23e6d-cell32.png",
+    "22d32863-cell12.png",
+    "30fda19f-42d5b90b-a80c-4524-b17f-99018fff2a56_A1_03_04_Best.png",
+    "3bdaa16d-195893df-aa40-4944-8592-2fa62f94d608_B2_01_04_Best.png",
+    "3d26f913-fc183976-b90b-42f5-b0f5-3142ad00fae7_A3_05_05_Best.png",
+    "445c8778-137a548c-ba26-40cc-bcac-d20d77cf6fd8_A2_03_03_Best.png",
+    "53e71d47-fc183976-b90b-42f5-b0f5-3142ad00fae7_A3_04_04_Best.png",
+    "54d4b99a-cell35.png",
+    "80225825-2ab5ac69-bc0f-4173-a326-cc1fecc40538_A2_03_05_Best.png",
+    "804272c3-cell37.png",
+    "83eda069-cell18.png",
+    "88328362-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_02_05_Best.png",
+    "8fceec5e-fc183976-b90b-42f5-b0f5-3142ad00fae7_B3_04_05_Best.png",
+    "9c8e6b79-7ddb4822-a089-40ee-9afb-a8b0117d3d32_A2_03_03_Best.png",
+    "ab885840-2ab5ac69-bc0f-4173-a326-cc1fecc40538_A2_02_05_Best.png",
+    "af2c443c-4bbba11f-35de-40fd-b133-6da58bccb122_B3_03_04_Best.png",
+    "b30a4c1a-cell31.png",
+    "b6b131d4-137a548c-ba26-40cc-bcac-d20d77cf6fd8_A2_04_04_Best.png",
+    "b97eefed-4bbba11f-35de-40fd-b133-6da58bccb122_A2_03_05_Best.png",
+    "bc08d8b8-30099d5a-1025-45ed-8700-536dea0ebb9c_A2_03_03_Best.png",
+    "c89fec27-2ab5ac69-bc0f-4173-a326-cc1fecc40538_A2_04_05_Best.png",
+    "d5b1620e-2ab5ac69-bc0f-4173-a326-cc1fecc40538_A2_03_03_Best.png",
+    "f29cb008-cell22.png",
+    "f3edddf0-fc183976-b90b-42f5-b0f5-3142ad00fae7_B3_03_04_Best.png",
+    "f59e843f-d58ccaa3-12bd-4a58-ac75-6c90482cc329_A2_03_05_Best.png",
+    "f6edfb6d-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_03_03_Best.png",
+    "ff6e4e7c-42d5b90b-a80c-4524-b17f-99018fff2a56_A1_04_04_Best.png"
+  ],
+  "split_counts": {
+    "train": 214,
+    "val": 46,
+    "test": 46
+  },
+  "group_policy": "Source UUID; all cellN together; exact decoded-image duplicates merged. Biological provenance unverified."
+}

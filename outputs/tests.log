@@ -1,0 +1,11 @@
+test_constant_image_normalization (test_myotubes.PipelineChecks.test_constant_image_normalization) ... ok
+test_group_and_duplicate_isolation (test_myotubes.PipelineChecks.test_group_and_duplicate_isolation) ... ok
+test_mask_export_agreement (test_myotubes.PipelineChecks.test_mask_export_agreement) ... ok
+test_metrics_with_foreground_and_empty_masks (test_myotubes.PipelineChecks.test_metrics_with_foreground_and_empty_masks) ... ok
+test_network_accepts_original_aspect_and_odd_shapes (test_myotubes.PipelineChecks.test_network_accepts_original_aspect_and_odd_shapes) ... ok
+test_threshold_selection_does_not_reward_empty_predictions (test_myotubes.PipelineChecks.test_threshold_selection_does_not_reward_empty_predictions) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.038s
+
+OK
